@@ -5,4 +5,4 @@ D11bootloader THUMB Debug/*
 D11bootloader THUMB Release/*
 *.hzs
 make/build/*
-
+dx1elf2dfu/dx1elf2dfu
